@@ -1,16 +1,38 @@
-## Hi there 👋
+Janitha Sandaruwan
 
-<!--
-**navigatoralgo/navigatoralgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building automation systems and trading tools for MetaTrader 5.  
+Founder of Navigator Trading Systems.  
 
-Here are some ideas to get you started:
+https://navigatoralgo.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Focus
+- MT5 expert advisors
+- Trade copiers and automation
+- Prop firm risk tools
+- Trading interfaces and execution systems
+
+
+
+Projects
+
+Trade Copier Ultimate  
+Multi-platform trade copier with bridge, Telegram and Discord integration.
+
+Trigger Pro  
+Execution and trade management system for MT5.
+
+Prop Firm Suite  
+Risk control and rule enforcement tools for prop trading.
+
+
+
+Tech
+MQL5, MetaTrader 5  
+Automation systems  
+HTML, JavaScript  
+
+
+
+Building tools for serious traders.
